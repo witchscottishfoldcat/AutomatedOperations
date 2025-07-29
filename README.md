@@ -1,6 +1,6 @@
 # Network Device Inspection Commands
-display device
-display environment
+display device  
+display environment  
 display alarm urgent
 display memory-usage
 display cpu-usage
