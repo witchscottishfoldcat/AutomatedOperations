@@ -1,6 +1,4 @@
 1. 巡检命令模板 (cmd.txt)
-bash
-复制
 # Network Device Inspection Commands
 display device
 display environment
